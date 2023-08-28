@@ -42,9 +42,16 @@ VITS를 이용하여 원하는 음성을 만듭니다.
 
 RVC-VITS를 이용하여 음성셋을 덮어 씌우면 나만의 보이스로 변환이 가능합니다.
 
+### TTS 학습으로 만든 음악
+[칵테일 사랑]
 
+* 나히다
 
+* 쿠로미
 
+<video src="/mp4/나히다_칵테일사랑.mov"></video>
+
+* 페이몬
 
 <!---
 kkt3343/kkt3343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

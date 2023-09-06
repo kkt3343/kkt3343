@@ -1,3 +1,5 @@
+<!-- 참조 : https://cocoon1787.tistory.com/827 -->
+
 <div align="left">
 
 # My Skills
@@ -19,6 +21,9 @@
 <img src="https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=linux">
 <img src="https://img.shields.io/badge/wpf-FCC624?style=for-the-badge&logo=wpf&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-6DB33F?style=for-the-badge&logo=.NET&logoColor=white">
+
+# 백준
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkt3343)](https://solved.ac/kkt3343)
 
 # Project
 

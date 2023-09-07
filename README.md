@@ -22,8 +22,19 @@
 <img src="https://img.shields.io/badge/wpf-FCC624?style=for-the-badge&logo=wpf&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-6DB33F?style=for-the-badge&logo=.NET&logoColor=white">
 
-## 백준
+# 백준
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkt3343)](https://solved.ac/kkt3343)
+
+# 자격증
+| 자격증                                    | 날짜             |
+| ----------------------------------------- | ---------------- |
+| 정보처리기사                               | 2023.06          |
+| SQL개발자 (SQLD)                          | 2023.04           |
+
+# 경력
+| 회사                                      | 기간             |
+| ----------------------------------------- | ---------------- |
+| 아이티에스코 (MIT)                         | 2023.06 ~          |
 
 # Project
 

@@ -61,22 +61,24 @@ RVC-VITS를 이용하여 음성셋을 덮어 씌우면 나만의 보이스로 �
 ### TTS 학습으로 만든 음악
 [칵테일 사랑]
 
+<!-- mp3, wav 파일을 올리는 방법 -->
+<!-- https://stackoverflow.com/questions/44185716/add-audio-in-github-readme-md -->
+<!-- 위의 사이트에 참조하면 된다. -->
+<!-- https://www.freeconvert.com/wav-to-mov -->
+<!-- 위의 사이트에서 mov로 바꾸고 바꾼 파일을 여기에 드래그아웃하면 된다.-->
+<!-- 그러면 링크가 나오는데 업로드 성공이다. -->
+
 * 나히다
 
-<!--<img src="./mp4/test.jpg">-->
-
-<video src="./mp4/나히다_칵테일사랑.mp4">
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](./mp4/나히다_칵테일사랑.mp4)
+https://github.com/kkt3343/kkt3343/assets/78895622/c7fd3669-b380-4d38-8232-9e69365b8a71
 
 * 쿠로미
 
-<video src="/mp4/나히다_칵테일사랑.mov"></video>
+https://github.com/kkt3343/kkt3343/assets/78895622/9b159e9e-bc3e-4be0-bbcb-7d22adb785ec
 
 * 페이몬
 
-
-https://github.com/kkt3343/kkt3343/assets/78895622/1fc7299a-fdb5-4813-aeb5-9dbdf8d25d70
+https://github.com/kkt3343/kkt3343/assets/78895622/8ee90953-45a7-464e-b5c4-4064121d4f29
 
 
 <!---

@@ -75,6 +75,10 @@ RVC-VITS를 이용하여 음성셋을 덮어 씌우면 나만의 보이스로 �
 
 * 페이몬
 
+
+https://github.com/kkt3343/kkt3343/assets/78895622/1fc7299a-fdb5-4813-aeb5-9dbdf8d25d70
+
+
 <!---
 kkt3343/kkt3343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

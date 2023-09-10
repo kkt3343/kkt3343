@@ -63,6 +63,12 @@ RVC-VITS를 이용하여 음성셋을 덮어 씌우면 나만의 보이스로 �
 
 * 나히다
 
+<!--<img src="./mp4/test.jpg">-->
+
+<video src="./mp4/나히다_칵테일사랑.mp4">
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](./mp4/나히다_칵테일사랑.mp4)
+
 * 쿠로미
 
 <video src="/mp4/나히다_칵테일사랑.mov"></video>

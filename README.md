@@ -58,15 +58,15 @@ VITS를 이용하여 원하는 음성을 만듭니다.
 
 RVC-VITS를 이용하여 음성셋을 덮어 씌우면 나만의 보이스로 변환이 가능합니다.
 
-### TTS 학습으로 만든 음악
-[칵테일 사랑]
-
+## TTS 학습으로 만든 음악
 <!-- mp3, wav 파일을 올리는 방법 -->
 <!-- https://stackoverflow.com/questions/44185716/add-audio-in-github-readme-md -->
 <!-- 위의 사이트에 참조하면 된다. -->
 <!-- https://www.freeconvert.com/wav-to-mov -->
 <!-- 위의 사이트에서 mov로 바꾸고 바꾼 파일을 여기에 드래그아웃하면 된다.-->
 <!-- 그러면 링크가 나오는데 업로드 성공이다. -->
+
+#### [칵테일 사랑]
 
 * 나히다
 
@@ -80,6 +80,15 @@ https://github.com/kkt3343/kkt3343/assets/78895622/9b159e9e-bc3e-4be0-bbcb-7d22a
 
 https://github.com/kkt3343/kkt3343/assets/78895622/8ee90953-45a7-464e-b5c4-4064121d4f29
 
+#### [아로하 (Aloha)]
+
+* 나히다
+
+https://github.com/kkt3343/kkt3343/assets/78895622/f7406706-ec8d-42a3-812c-173d599b1a3d
+
+* 푸리나
+
+https://github.com/kkt3343/kkt3343/assets/78895622/4504261a-4ec3-4a52-ba9b-3dc4aae2fe43
 
 <!---
 kkt3343/kkt3343 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
